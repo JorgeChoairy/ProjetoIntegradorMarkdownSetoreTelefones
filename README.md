@@ -1,2 +1,2 @@
 # ProjetoIntegradorMarkdownSetoreTelefones
-Grupo: Jorge Miguel Choairy - JorgeChoairy e Thomaz Choairy Germano - ThomazChoairyGermano
+Grupo: Jorge Miguel Choairy - https://github.com/JorgeChoairy e Thomaz Choairy Germano - https://github.com/ThomazChoairyGermano
