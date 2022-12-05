@@ -1,3 +1,2 @@
 # ProjetoIntegradorMarkdownSetoreTelefones
-Grupo: Jorge Miguel Choairy - JorgeChoairy 
-       Thomaz Choairy Germano - ThomazChoairyGermano
+Grupo: Jorge Miguel Choairy - JorgeChoairy e Thomaz Choairy Germano - ThomazChoairyGermano
